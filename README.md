@@ -2,6 +2,8 @@
 
 MyApp
 
+[![Codemagic build status](https://api.codemagic.io/apps/61c96114602730baeab0bad4/61c96114602730baeab0bad3/status_badge.svg)](https://codemagic.io/apps/61c96114602730baeab0bad4/61c96114602730baeab0bad3/latest_build)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
